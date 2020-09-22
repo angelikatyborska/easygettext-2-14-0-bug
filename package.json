@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "easygettext": "2.13.0",
+    "easygettext": "2.14.0",
     "vue": "^2.6.11",
     "vue-gettext": "^2.1.10"
   },

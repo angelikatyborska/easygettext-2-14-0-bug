@@ -8,7 +8,3 @@ msgstr ""
 #: src/components/TestComponent1.vue:1
 msgid "Test String 1"
 msgstr ""
-
-#: src/components/TestComponent2.js:5
-msgid "Test String 2"
-msgstr ""
