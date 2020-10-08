@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "easygettext": "2.14.0",
+    "easygettext": "git://github.com:Polyconseil/easygettext.git#47e2464ff363f49d2bb3b35da1b95ca144db63dd",
     "vue": "^2.6.11",
     "vue-gettext": "^2.1.10"
   },

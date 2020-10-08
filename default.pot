@@ -9,8 +9,8 @@ msgstr ""
 msgid "Test String 1"
 msgstr ""
 
-#: src/components/TestComponent1.vue:12
-msgid "Test String 3"
+#: src/components/TestComponent2.js:6
+msgid "Test String 2"
 msgstr ""
 
 #: src/components/TestComponent2.js:11
