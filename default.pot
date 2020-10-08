@@ -5,6 +5,14 @@ msgstr ""
 "Generated-By: easygettext\n"
 "Project-Id-Version: \n"
 
-#: src/components/TestComponent1.vue:1
+#: src/components/TestComponent1.vue:2
 msgid "Test String 1"
+msgstr ""
+
+#: src/components/TestComponent1.vue:12
+msgid "Test String 3"
+msgstr ""
+
+#: src/components/TestComponent2.js:11
+msgid "Test String 4"
 msgstr ""
